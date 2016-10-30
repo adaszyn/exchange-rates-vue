@@ -1,0 +1,2884 @@
+{
+  "data": [
+    {
+      "buy": 14.5,
+      "id": 2088658965,
+      "sell": 18.5,
+      "date": 1477419171806,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 47,
+      "id": -2112400233,
+      "sell": 48.5,
+      "date": 1477246371454,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 5.5,
+      "id": 881237168,
+      "sell": 6.6,
+      "date": 1476814369736,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 14.5,
+      "id": -602021185,
+      "sell": 18.5,
+      "date": 1476741543327,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 1.05,
+      "id": 1765824084,
+      "sell": 1.38,
+      "date": 1476814369736,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 215,
+      "id": 903783167,
+      "sell": 230,
+      "date": 1476808683954,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 1.05,
+      "id": -634381092,
+      "sell": 1.38,
+      "date": 1476808683954,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 1.02,
+      "id": -1627254330,
+      "sell": 1.12,
+      "date": 1477591971197,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 5.5,
+      "id": -1518968008,
+      "sell": 6.6,
+      "date": 1476808683954,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 430,
+      "id": -1861301794,
+      "sell": 433.5,
+      "date": 1477073571466,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 20,
+      "id": -894559893,
+      "sell": 44,
+      "date": 1476741543327,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 373,
+      "id": 1581342285,
+      "sell": 393,
+      "date": 1476814369736,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 475,
+      "id": -495412619,
+      "sell": 479.9,
+      "date": 1476741543327,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 14.5,
+      "id": 1341011258,
+      "sell": 18.5,
+      "date": 1477332772653,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 391,
+      "id": -1902884045,
+      "sell": 394.5,
+      "date": 1476741543327,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 2.9,
+      "id": -655763040,
+      "sell": 3.4,
+      "date": 1477159971251,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 43.8,
+      "id": -162641620,
+      "sell": 44.8,
+      "date": 1477332772653,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 479,
+      "id": -629048388,
+      "sell": 485,
+      "date": 1476814369736,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 57.4,
+      "id": 1480084201,
+      "sell": 58.3,
+      "date": 1477678371270,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 375,
+      "id": 1714978054,
+      "sell": 395,
+      "date": 1476741543327,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 430,
+      "id": -1714840195,
+      "sell": 433.5,
+      "date": 1477159971251,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 391.5,
+      "id": -431696395,
+      "sell": 394.3,
+      "date": 1476900770397,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 393.5,
+      "id": -1790436337,
+      "sell": 398,
+      "date": 1477678371270,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 297,
+      "id": 1183135804,
+      "sell": 302,
+      "date": 1476812282623,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 15.85,
+      "id": 1474607346,
+      "sell": 16.3,
+      "date": 1476900770397,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 378,
+      "id": -636956799,
+      "sell": 398,
+      "date": 1477332772653,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 96,
+      "id": -679678105,
+      "sell": 106,
+      "date": 1476812282623,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 50,
+      "id": 755728045,
+      "sell": 100,
+      "date": 1476741435585,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 20,
+      "id": 576627757,
+      "sell": 44,
+      "date": 1476900770397,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 2.9,
+      "id": 1077157904,
+      "sell": 3.4,
+      "date": 1476814369736,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 47.4,
+      "id": 1823355323,
+      "sell": 48.4,
+      "date": 1476987171671,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 57.1,
+      "id": -236650653,
+      "sell": 58.1,
+      "date": 1477419171806,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 47.4,
+      "id": -690102939,
+      "sell": 48.4,
+      "date": 1476808683954,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 294,
+      "id": -1176340927,
+      "sell": 299,
+      "date": 1477505570938,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 295,
+      "id": -1856023154,
+      "sell": 305,
+      "date": 1477073571466,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 396.5,
+      "id": -1757493757,
+      "sell": 401,
+      "date": 1476741543327,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 57.2,
+      "id": 1367492286,
+      "sell": 58.2,
+      "date": 1477505570938,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 20,
+      "id": -1028195662,
+      "sell": 44,
+      "date": 1476814369736,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 57.1,
+      "id": 1347253810,
+      "sell": 58.1,
+      "date": 1476987171671,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 1.02,
+      "id": 1289923566,
+      "sell": 1.12,
+      "date": 1477073571466,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 20,
+      "id": -555730836,
+      "sell": 44,
+      "date": 1477246371454,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 375,
+      "id": -151578659,
+      "sell": 398,
+      "date": 1477159971251,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 57,
+      "id": 1935890517,
+      "sell": 63,
+      "date": 1476814369736,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 396.5,
+      "id": -1786984741,
+      "sell": 401,
+      "date": 1476741435585,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 20,
+      "id": 1464772631,
+      "sell": 44,
+      "date": 1476812282623,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 14.5,
+      "id": 1757311339,
+      "sell": 18.5,
+      "date": 1476812282623,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 393,
+      "id": -1923266728,
+      "sell": 397,
+      "date": 1476987171671,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 375,
+      "id": 1694595371,
+      "sell": 395,
+      "date": 1476987171671,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 47.2,
+      "id": 1814247022,
+      "sell": 48.2,
+      "date": 1476741435585,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 3,
+      "id": -1492815756,
+      "sell": 4.1,
+      "date": 1477073571466,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 3,
+      "id": -1084084590,
+      "sell": 4.1,
+      "date": 1477419171806,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 215,
+      "id": -857343184,
+      "sell": 230,
+      "date": 1476741543327,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 293,
+      "id": -1063749012,
+      "sell": 298,
+      "date": 1477678371270,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 5.5,
+      "id": -589414209,
+      "sell": 6.6,
+      "date": 1477419171806,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 1.05,
+      "id": 1879077170,
+      "sell": 1.38,
+      "date": 1476987171671,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 56,
+      "id": -2112993302,
+      "sell": 63,
+      "date": 1477678371270,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 295,
+      "id": 2100027601,
+      "sell": 305,
+      "date": 1477332772653,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 1.02,
+      "id": 769100933,
+      "sell": 1.12,
+      "date": 1476808683954,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 0.56,
+      "id": -808053249,
+      "sell": 0.63,
+      "date": 1477073571466,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 1.05,
+      "id": -2056678386,
+      "sell": 1.38,
+      "date": 1477246371454,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 5.5,
+      "id": -1808906709,
+      "sell": 6.6,
+      "date": 1476900770397,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 15.8,
+      "id": -1863137017,
+      "sell": 16.2,
+      "date": 1477159971251,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 1.38,
+      "id": 1853941951,
+      "sell": 1.45,
+      "date": 1477505570938,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 430,
+      "id": 1912842869,
+      "sell": 433,
+      "date": 1476808683954,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 1.02,
+      "id": -992169625,
+      "sell": 1.12,
+      "date": 1477505570938,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 47,
+      "id": 1956185714,
+      "sell": 48,
+      "date": 1477678371270,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 47.2,
+      "id": 1208509094,
+      "sell": 48.1,
+      "date": 1477591971197,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 391,
+      "id": -1932375029,
+      "sell": 394.5,
+      "date": 1476741435585,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 215,
+      "id": -744895476,
+      "sell": 230,
+      "date": 1477678371270,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 57.2,
+      "id": -1456143153,
+      "sell": 58.2,
+      "date": 1476900770397,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 47.3,
+      "id": -980041640,
+      "sell": 48.3,
+      "date": 1476900770397,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 43.8,
+      "id": -634486413,
+      "sell": 44.8,
+      "date": 1476900770397,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 57,
+      "id": -645381819,
+      "sell": 58.3,
+      "date": 1477073571466,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 373,
+      "id": -220656718,
+      "sell": 393,
+      "date": 1476812282623,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 50,
+      "id": 651583260,
+      "sell": 100,
+      "date": 1476814369736,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 50,
+      "id": -1227799283,
+      "sell": 100,
+      "date": 1477073571466,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 14.5,
+      "id": 1159105166,
+      "sell": 18.5,
+      "date": 1476808683954,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 430,
+      "id": 18080749,
+      "sell": 433,
+      "date": 1476814369736,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 0.56,
+      "id": 1543794120,
+      "sell": 0.63,
+      "date": 1477246371454,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 57.3,
+      "id": -984298360,
+      "sell": 58.3,
+      "date": 1477332772653,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 50,
+      "id": -819068117,
+      "sell": 100,
+      "date": 1477419171806,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 15.75,
+      "id": 3275489,
+      "sell": 16.2,
+      "date": 1477505570938,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 3,
+      "id": -115026356,
+      "sell": 4.1,
+      "date": 1477591971197,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 57.3,
+      "id": -567998279,
+      "sell": 58.3,
+      "date": 1476812282623,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 96,
+      "id": -1095978186,
+      "sell": 106,
+      "date": 1477332772653,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 479,
+      "id": 1265713732,
+      "sell": 485,
+      "date": 1476808683954,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 50,
+      "id": -1748621916,
+      "sell": 100,
+      "date": 1476808683954,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 20,
+      "id": -1529788805,
+      "sell": 44,
+      "date": 1477591971197,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 3,
+      "id": 520058349,
+      "sell": 4.1,
+      "date": 1477505570938,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 50,
+      "id": -1150415743,
+      "sell": 100,
+      "date": 1476812282623,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 96,
+      "id": 1122320898,
+      "sell": 106,
+      "date": 1476814369736,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 3,
+      "id": -1415432216,
+      "sell": 4.1,
+      "date": 1476812282623,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 430,
+      "id": -1783918254,
+      "sell": 433,
+      "date": 1476812282623,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 2.9,
+      "id": 1323241381,
+      "sell": 3.4,
+      "date": 1477678371270,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 44,
+      "id": -344547712,
+      "sell": 44.8,
+      "date": 1476808683954,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 430,
+      "id": 490545575,
+      "sell": 433.5,
+      "date": 1477246371454,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 15.9,
+      "id": -26071288,
+      "sell": 16.35,
+      "date": 1476741435585,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 215,
+      "id": 1833336966,
+      "sell": 230,
+      "date": 1477419171806,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 96,
+      "id": 1368404375,
+      "sell": 106,
+      "date": 1477678371270,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 481,
+      "id": -1130641531,
+      "sell": 487,
+      "date": 1477591971197,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 14.5,
+      "id": -1237250097,
+      "sell": 18.5,
+      "date": 1477591971197,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 391,
+      "id": -141757694,
+      "sell": 394,
+      "date": 1476808683954,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 57,
+      "id": -498920220,
+      "sell": 58.3,
+      "date": 1477159971251,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 44,
+      "id": 2055657464,
+      "sell": 44.8,
+      "date": 1476814369736,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 5.5,
+      "id": 1127320645,
+      "sell": 6.6,
+      "date": 1477678371270,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 57,
+      "id": 2049143603,
+      "sell": 63,
+      "date": 1476987171671,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 1.38,
+      "id": 1824595174,
+      "sell": 1.45,
+      "date": 1476741435585,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 2.9,
+      "id": 1549622730,
+      "sell": 3.4,
+      "date": 1477246371454,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 96,
+      "id": 620727755,
+      "sell": 106,
+      "date": 1477591971197,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 295,
+      "id": 1252213863,
+      "sell": 301,
+      "date": 1477159971251,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 15.9,
+      "id": 3419696,
+      "sell": 16.35,
+      "date": 1476741543327,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 14.5,
+      "id": -489573477,
+      "sell": 18.5,
+      "date": 1477678371270,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 430.5,
+      "id": 131333835,
+      "sell": 434,
+      "date": 1476987171671,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 57,
+      "id": 1706465550,
+      "sell": 58.3,
+      "date": 1477246371454,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 56,
+      "id": 2069382079,
+      "sell": 63,
+      "date": 1477505570938,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 14.5,
+      "id": 869166465,
+      "sell": 18.5,
+      "date": 1476900770397,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 20,
+      "id": 1796120257,
+      "sell": 44,
+      "date": 1477419171806,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 14.5,
+      "id": -602165392,
+      "sell": 18.5,
+      "date": 1477505570938,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 57,
+      "id": -1886611953,
+      "sell": 63,
+      "date": 1477246371454,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 15.85,
+      "id": 1764546047,
+      "sell": 16.3,
+      "date": 1476808683954,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 14.5,
+      "id": -263192128,
+      "sell": 18.5,
+      "date": 1477246371454,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 215,
+      "id": -990978953,
+      "sell": 230,
+      "date": 1476814369736,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 5.5,
+      "id": -920761835,
+      "sell": 6.6,
+      "date": 1476812282623,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 394.5,
+      "id": -1903028252,
+      "sell": 398,
+      "date": 1477505570938,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 430,
+      "id": 2094748961,
+      "sell": 432.5,
+      "date": 1477332772653,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 96,
+      "id": 1226465683,
+      "sell": 106,
+      "date": 1476741435585,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 398,
+      "id": -1645046049,
+      "sell": 401.5,
+      "date": 1477678371270,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 50,
+      "id": 785074822,
+      "sell": 100,
+      "date": 1477505570938,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 0.56,
+      "id": 1175474079,
+      "sell": 0.63,
+      "date": 1476741435585,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 215,
+      "id": 1424605800,
+      "sell": 230,
+      "date": 1477073571466,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 57,
+      "id": 2040035302,
+      "sell": 63,
+      "date": 1476741435585,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 482,
+      "id": 1786536365,
+      "sell": 487.5,
+      "date": 1477073571466,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 394.5,
+      "id": 40148398,
+      "sell": 397.5,
+      "date": 1477332772653,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 296,
+      "id": -1205687704,
+      "sell": 301,
+      "date": 1476741435585,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 431,
+      "id": 151572311,
+      "sell": 434,
+      "date": 1477505570938,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 15.8,
+      "id": 1946452139,
+      "sell": 16.2,
+      "date": 1477332772653,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 396,
+      "id": 601838767,
+      "sell": 400.5,
+      "date": 1476812282623,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 20,
+      "id": 1048472550,
+      "sell": 44,
+      "date": 1477332772653,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 15.85,
+      "id": -130216073,
+      "sell": 16.3,
+      "date": 1476814369736,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 1.02,
+      "id": -1125661187,
+      "sell": 1.12,
+      "date": 1476814369736,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 1.02,
+      "id": 1698654732,
+      "sell": 1.12,
+      "date": 1477419171806,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 1.05,
+      "id": -113558459,
+      "sell": 1.38,
+      "date": 1477073571466,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 479,
+      "id": 975775031,
+      "sell": 484,
+      "date": 1476900770397,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 2.9,
+      "id": 575564761,
+      "sell": 3.4,
+      "date": 1477591971197,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 482,
+      "id": -156583562,
+      "sell": 487.5,
+      "date": 1477246371454,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 480,
+      "id": -2099699765,
+      "sell": 485.5,
+      "date": 1477419171806,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 482,
+      "id": 1932997964,
+      "sell": 487.5,
+      "date": 1477159971251,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 297,
+      "id": 294990930,
+      "sell": 302,
+      "date": 1476900770397,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 431,
+      "id": 264164226,
+      "sell": 434.5,
+      "date": 1477678371270,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 15.85,
+      "id": -16962987,
+      "sell": 16.25,
+      "date": 1476987171671,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 20,
+      "id": -782112185,
+      "sell": 44,
+      "date": 1477678371270,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 57.4,
+      "id": 1338145509,
+      "sell": 58.4,
+      "date": 1476741435585,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 57,
+      "id": 202969573,
+      "sell": 63,
+      "date": 1477159971251,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 293,
+      "id": -1811425632,
+      "sell": 298,
+      "date": 1477591971197,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 2.9,
+      "id": -1323047272,
+      "sell": 3.4,
+      "date": 1476808683954,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 20,
+      "id": -894704100,
+      "sell": 44,
+      "date": 1477505570938,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 2.9,
+      "id": 1210793673,
+      "sell": 3.4,
+      "date": 1476741543327,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 0.56,
+      "id": -399322083,
+      "sell": 0.63,
+      "date": 1477419171806,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 1.38,
+      "id": 1854086158,
+      "sell": 1.45,
+      "date": 1476741543327,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 3,
+      "id": -1831732297,
+      "sell": 4.1,
+      "date": 1477332772653,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 20,
+      "id": -914942576,
+      "sell": 44,
+      "date": 1476987171671,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 475,
+      "id": -524903603,
+      "sell": 479.9,
+      "date": 1476741435585,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 1.02,
+      "id": 951007025,
+      "sell": 1.12,
+      "date": 1477332772653,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 3,
+      "id": 632650264,
+      "sell": 4.1,
+      "date": 1477678371270,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 43.5,
+      "id": 322736520,
+      "sell": 44.9,
+      "date": 1477159971251,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 57.4,
+      "id": 732407581,
+      "sell": 58.3,
+      "date": 1477591971197,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 43.5,
+      "id": -2105818270,
+      "sell": 44.5,
+      "date": 1477505570938,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 1.38,
+      "id": -81548614,
+      "sell": 1.45,
+      "date": 1476812282623,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 43.5,
+      "id": 176274921,
+      "sell": 44.9,
+      "date": 1477073571466,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 1.02,
+      "id": -1021516402,
+      "sell": 1.12,
+      "date": 1476741435585,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 1.05,
+      "id": -36174919,
+      "sell": 1.38,
+      "date": 1476812282623,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 14.5,
+      "id": -631512169,
+      "sell": 18.5,
+      "date": 1476741435585,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 397,
+      "id": 1902244627,
+      "sell": 401.5,
+      "date": 1477591971197,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 295,
+      "id": 766835723,
+      "sell": 300,
+      "date": 1477332772653,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 0.56,
+      "id": -1618814583,
+      "sell": 0.63,
+      "date": 1476900770397,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 430.5,
+      "id": 122225534,
+      "sell": 434,
+      "date": 1476741435585,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 43,
+      "id": -1993226355,
+      "sell": 44,
+      "date": 1477678371270,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 396.5,
+      "id": -1418664700,
+      "sell": 400.5,
+      "date": 1477246371454,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 1.38,
+      "id": 1720450389,
+      "sell": 1.45,
+      "date": 1476814369736,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 1.38,
+      "id": 1966533866,
+      "sell": 1.45,
+      "date": 1477678371270,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 5.5,
+      "id": 1014728730,
+      "sell": 6.6,
+      "date": 1477505570938,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 3,
+      "id": -1346354157,
+      "sell": 4.1,
+      "date": 1477159971251,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 1.38,
+      "id": -12470555,
+      "sell": 1.45,
+      "date": 1477159971251,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 14.5,
+      "id": 1679927799,
+      "sell": 18.5,
+      "date": 1477073571466,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 47.3,
+      "id": -508196847,
+      "sell": 48.3,
+      "date": 1477332772653,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 2.9,
+      "id": -1612985973,
+      "sell": 3.4,
+      "date": 1476900770397,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 2.9,
+      "id": 1210649466,
+      "sell": 3.4,
+      "date": 1477505570938,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 395,
+      "id": 1756854339,
+      "sell": 399,
+      "date": 1477591971197,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 395.5,
+      "id": -1564054988,
+      "sell": 399,
+      "date": 1477246371454,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 1.02,
+      "id": -879577710,
+      "sell": 1.12,
+      "date": 1477678371270,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 3,
+      "id": 1991390206,
+      "sell": 4.1,
+      "date": 1476900770397,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 50,
+      "id": 785219029,
+      "sell": 100,
+      "date": 1476741543327,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 396.5,
+      "id": 524455227,
+      "sell": 400.5,
+      "date": 1477073571466,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 375,
+      "id": 1827425762,
+      "sell": 395,
+      "date": 1477678371270,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 295,
+      "id": 156850951,
+      "sell": 305,
+      "date": 1477505570938,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 294,
+      "id": 1918121509,
+      "sell": 304,
+      "date": 1476808683954,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 20,
+      "id": 866566458,
+      "sell": 44,
+      "date": 1476808683954,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 398,
+      "id": -1757637964,
+      "sell": 401.5,
+      "date": 1477505570938,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 396,
+      "id": 185538686,
+      "sell": 400.5,
+      "date": 1477332772653,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 43.8,
+      "id": -2126056746,
+      "sell": 44.8,
+      "date": 1476987171671,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 5.5,
+      "id": 994490254,
+      "sell": 6.6,
+      "date": 1476987171671,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 20,
+      "id": -924050877,
+      "sell": 44,
+      "date": 1476741435585,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 1.02,
+      "id": -992025418,
+      "sell": 1.12,
+      "date": 1476741543327,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 396,
+      "id": 3632594,
+      "sell": 400.5,
+      "date": 1476808683954,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 397,
+      "id": 933186393,
+      "sell": 401,
+      "date": 1477419171806,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 1.05,
+      "id": 1264230941,
+      "sell": 1.38,
+      "date": 1477591971197,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 295,
+      "id": -1447291988,
+      "sell": 305,
+      "date": 1477419171806,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 1.38,
+      "id": -679754787,
+      "sell": 1.45,
+      "date": 1476808683954,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 20,
+      "id": 1533850690,
+      "sell": 44,
+      "date": 1477159971251,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 2.9,
+      "id": 1181302689,
+      "sell": 3.4,
+      "date": 1476741435585,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 296,
+      "id": 1105752264,
+      "sell": 301,
+      "date": 1477073571466,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 430.5,
+      "id": 151716518,
+      "sell": 434,
+      "date": 1476741543327,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 430,
+      "id": -1452570628,
+      "sell": 433,
+      "date": 1477419171806,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 1.38,
+      "id": 1218857246,
+      "sell": 1.45,
+      "date": 1477591971197,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 297,
+      "id": -1309832489,
+      "sell": 302,
+      "date": 1476814369736,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 56,
+      "id": -282408567,
+      "sell": 63,
+      "date": 1477332772653,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 0.56,
+      "id": 1184582380,
+      "sell": 0.63,
+      "date": 1476987171671,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 5.5,
+      "id": -851683776,
+      "sell": 6.6,
+      "date": 1477159971251,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 295,
+      "id": 495824215,
+      "sell": 305,
+      "date": 1477246371454,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 57,
+      "id": 56507974,
+      "sell": 63,
+      "date": 1477073571466,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 96,
+      "id": 1255812460,
+      "sell": 106,
+      "date": 1477505570938,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 47.2,
+      "id": 1843738006,
+      "sell": 48.2,
+      "date": 1476741543327,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 294,
+      "id": -1778639614,
+      "sell": 304,
+      "date": 1476812282623,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 43.8,
+      "id": 1554064321,
+      "sell": 44.7,
+      "date": 1477591971197,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 395.5,
+      "id": 525526538,
+      "sell": 399,
+      "date": 1477159971251,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 3,
+      "id": -2013638389,
+      "sell": 4.1,
+      "date": 1476808683954,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 215,
+      "id": 613844466,
+      "sell": 230,
+      "date": 1476900770397,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 47,
+      "id": 1843593799,
+      "sell": 48,
+      "date": 1477505570938,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 47,
+      "id": -169280306,
+      "sell": 48.5,
+      "date": 1477073571466,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 96,
+      "id": -757061645,
+      "sell": 106,
+      "date": 1477073571466,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 20,
+      "id": 1387389091,
+      "sell": 44,
+      "date": 1477073571466,
+      "currency": "funt egipski",
+      "country": "Egipt"
+    },
+    {
+      "buy": 5.5,
+      "id": 985381953,
+      "sell": 6.6,
+      "date": 1476741435585,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 296,
+      "id": -1176196720,
+      "sell": 301,
+      "date": 1476741543327,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 57.3,
+      "id": 1234000724,
+      "sell": 58.3,
+      "date": 1476814369736,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 297,
+      "id": 584929631,
+      "sell": 302,
+      "date": 1476808683954,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 0.56,
+      "id": -1328875882,
+      "sell": 0.63,
+      "date": 1476808683954,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 0.56,
+      "id": 1204820856,
+      "sell": 0.63,
+      "date": 1477505570938,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 397,
+      "id": -1777876440,
+      "sell": 401,
+      "date": 1476987171671,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 96,
+      "id": 1594785724,
+      "sell": 106,
+      "date": 1477246371454,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 377,
+      "id": 110690908,
+      "sell": 397,
+      "date": 1477419171806,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 15.85,
+      "id": -1932215076,
+      "sell": 16.3,
+      "date": 1476812282623,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 1.05,
+      "id": 1899459853,
+      "sell": 1.38,
+      "date": 1476741543327,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 43.8,
+      "id": -2105674063,
+      "sell": 44.8,
+      "date": 1476741543327,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 396,
+      "id": -286306107,
+      "sell": 399.5,
+      "date": 1476900770397,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 377,
+      "id": 1079749142,
+      "sell": 397,
+      "date": 1477591971197,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 3,
+      "id": 499819873,
+      "sell": 4.1,
+      "date": 1476987171671,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 1.05,
+      "id": 2011907561,
+      "sell": 1.38,
+      "date": 1477678371270,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 96,
+      "id": -610600046,
+      "sell": 106,
+      "date": 1477159971251,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 50,
+      "id": 1124048086,
+      "sell": 100,
+      "date": 1477246371454,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 290,
+      "id": 156995158,
+      "sell": 300,
+      "date": 1476741543327,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 96,
+      "id": 1235573984,
+      "sell": 106,
+      "date": 1476987171671,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 294,
+      "id": 23359389,
+      "sell": 304,
+      "date": 1476814369736,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 1.05,
+      "id": 32903140,
+      "sell": 1.38,
+      "date": 1477159971251,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 2.9,
+      "id": -393493473,
+      "sell": 3.4,
+      "date": 1477419171806,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 0.56,
+      "id": 569736151,
+      "sell": 0.63,
+      "date": 1477591971197,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 1.02,
+      "id": 1367307106,
+      "sell": 1.12,
+      "date": 1476812282623,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 295,
+      "id": -1709561555,
+      "sell": 305,
+      "date": 1477159971251,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 15.75,
+      "id": -1600867450,
+      "sell": 16.2,
+      "date": 1477419171806,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 290,
+      "id": 127504174,
+      "sell": 300,
+      "date": 1476741435585,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 295,
+      "id": -478233754,
+      "sell": 305,
+      "date": 1477591971197,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 56,
+      "id": 465239140,
+      "sell": 63,
+      "date": 1477419171806,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 215,
+      "id": -1492572096,
+      "sell": 230,
+      "date": 1477591971197,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 2.9,
+      "id": -802224639,
+      "sell": 3.4,
+      "date": 1477073571466,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 15.8,
+      "id": 342248753,
+      "sell": 16.2,
+      "date": 1477246371454,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 50,
+      "id": 764836346,
+      "sell": 100,
+      "date": 1476987171671,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 215,
+      "id": -886834168,
+      "sell": 230,
+      "date": 1476741435585,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 1.05,
+      "id": 295172707,
+      "sell": 1.38,
+      "date": 1477419171806,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 1.38,
+      "id": -969693488,
+      "sell": 1.45,
+      "date": 1476900770397,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 215,
+      "id": -857487391,
+      "sell": 230,
+      "date": 1477505570938,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 391,
+      "id": 456448479,
+      "sell": 394,
+      "date": 1476812282623,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 1.05,
+      "id": 1869968869,
+      "sell": 1.38,
+      "date": 1476741435585,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 96,
+      "id": 1255956667,
+      "sell": 106,
+      "date": 1476741543327,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 0.56,
+      "id": 1071329294,
+      "sell": 0.63,
+      "date": 1476814369736,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 295,
+      "id": -1196579403,
+      "sell": 300,
+      "date": 1476987171671,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 1.05,
+      "id": 1899315646,
+      "sell": 1.38,
+      "date": 1477505570938,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 2.9,
+      "id": 1190410990,
+      "sell": 3.4,
+      "date": 1476987171671,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 5.5,
+      "id": -998145375,
+      "sell": 6.6,
+      "date": 1477073571466,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 294,
+      "id": 136612475,
+      "sell": 304,
+      "date": 1476987171671,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 96,
+      "id": -1567822979,
+      "sell": 106,
+      "date": 1476900770397,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 294,
+      "id": 1514483430,
+      "sell": 299,
+      "date": 1477419171806,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 395.5,
+      "id": 379064939,
+      "sell": 399,
+      "date": 1477073571466,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 57.4,
+      "id": 1367636493,
+      "sell": 58.4,
+      "date": 1476741543327,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 1.02,
+      "id": -1012408101,
+      "sell": 1.12,
+      "date": 1476987171671,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 5.5,
+      "id": -1337061916,
+      "sell": 6.6,
+      "date": 1477332772653,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 215,
+      "id": 1085689259,
+      "sell": 230,
+      "date": 1477332772653,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 432,
+      "id": -483512394,
+      "sell": 435.5,
+      "date": 1477591971197,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 47.4,
+      "id": -91896766,
+      "sell": 48.4,
+      "date": 1476812282623,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 1.38,
+      "id": -2102052081,
+      "sell": 1.45,
+      "date": 1477246371454,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 215,
+      "id": 1571067399,
+      "sell": 230,
+      "date": 1477159971251,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 0.56,
+      "id": -730669709,
+      "sell": 0.63,
+      "date": 1476812282623,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 215,
+      "id": -518514127,
+      "sell": 230,
+      "date": 1477246371454,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 43.5,
+      "id": -1766845006,
+      "sell": 44.9,
+      "date": 1477246371454,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 96,
+      "id": -348330479,
+      "sell": 106,
+      "date": 1477419171806,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 215,
+      "id": -877725867,
+      "sell": 230,
+      "date": 1476987171671,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 50,
+      "id": 149990117,
+      "sell": 100,
+      "date": 1477591971197,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 56,
+      "id": 1434297374,
+      "sell": 63,
+      "date": 1477591971197,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 479,
+      "id": 1863919905,
+      "sell": 485,
+      "date": 1476812282623,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 96,
+      "id": -1277884278,
+      "sell": 106,
+      "date": 1476808683954,
+      "currency": "lej rumu�ski",
+      "country": "Rumunia"
+    },
+    {
+      "buy": 295,
+      "id": 269442866,
+      "sell": 305,
+      "date": 1477678371270,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 43.5,
+      "id": 585006087,
+      "sell": 44.5,
+      "date": 1477419171806,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 478,
+      "id": -382964911,
+      "sell": 485,
+      "date": 1477678371270,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 294,
+      "id": 1628182808,
+      "sell": 304,
+      "date": 1476900770397,
+      "currency": "dolar australijski",
+      "country": "Australia"
+    },
+    {
+      "buy": 1.02,
+      "id": 1436385165,
+      "sell": 1.12,
+      "date": 1477159971251,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 1.38,
+      "id": 249799012,
+      "sell": 1.45,
+      "date": 1477419171806,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 0.56,
+      "id": -661591650,
+      "sell": 0.63,
+      "date": 1477159971251,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 3.5,
+      "id": 520202556,
+      "sell": 4.1,
+      "date": 1476741543327,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 47,
+      "id": -22818707,
+      "sell": 48.5,
+      "date": 1477159971251,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 57.3,
+      "id": -1166204452,
+      "sell": 58.3,
+      "date": 1476808683954,
+      "currency": "korona du�ska",
+      "country": "Dania"
+    },
+    {
+      "buy": 15.85,
+      "id": -631809216,
+      "sell": 16.25,
+      "date": 1477591971197,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 1.02,
+      "id": 479162232,
+      "sell": 1.12,
+      "date": 1476900770397,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 0.56,
+      "id": 1317412771,
+      "sell": 0.63,
+      "date": 1477678371270,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 2.9,
+      "id": -1141141180,
+      "sell": 3.4,
+      "date": 1477332772653,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 396.5,
+      "id": 670916826,
+      "sell": 400.5,
+      "date": 1477159971251,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 1.02,
+      "id": -653196361,
+      "sell": 1.12,
+      "date": 1477246371454,
+      "currency": "dirham ZEA",
+      "country": "Zjedn.Emiraty Arabskie"
+    },
+    {
+      "buy": 375,
+      "id": 2053807111,
+      "sell": 398,
+      "date": 1477246371454,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 1.05,
+      "id": -452475000,
+      "sell": 1.38,
+      "date": 1477332772653,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 3,
+      "id": 859031613,
+      "sell": 4.1,
+      "date": 1477246371454,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 57,
+      "id": -754253360,
+      "sell": 63,
+      "date": 1476900770397,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 1.38,
+      "id": -497848695,
+      "sell": 1.45,
+      "date": 1477332772653,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 14.5,
+      "id": -735656954,
+      "sell": 18.5,
+      "date": 1476814369736,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 43.8,
+      "id": -2135165047,
+      "sell": 44.8,
+      "date": 1476741435585,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 50,
+      "id": -1081337684,
+      "sell": 100,
+      "date": 1477159971251,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 481,
+      "id": -515795302,
+      "sell": 486,
+      "date": 1476987171671,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 3.5,
+      "id": 490711572,
+      "sell": 4.1,
+      "date": 1476741435585,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 1.05,
+      "id": -924319793,
+      "sell": 1.38,
+      "date": 1476900770397,
+      "currency": "liry tureckie",
+      "country": "Turcja"
+    },
+    {
+      "buy": 295,
+      "id": -837367663,
+      "sell": 301,
+      "date": 1477246371454,
+      "currency": "dolar kanadyjski",
+      "country": "Kanada"
+    },
+    {
+      "buy": 377,
+      "id": 1714833847,
+      "sell": 397,
+      "date": 1477505570938,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 15.85,
+      "id": -2009598616,
+      "sell": 16.2,
+      "date": 1477073571466,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 375,
+      "id": 1685487070,
+      "sell": 395,
+      "date": 1476741435585,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 57,
+      "id": -464314659,
+      "sell": 63,
+      "date": 1476808683954,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 5.5,
+      "id": 1014872937,
+      "sell": 6.6,
+      "date": 1476741543327,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 482,
+      "id": -495556826,
+      "sell": 487,
+      "date": 1477505570938,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 394,
+      "id": 787796105,
+      "sell": 397.5,
+      "date": 1477419171806,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 396,
+      "id": -1891129526,
+      "sell": 400.5,
+      "date": 1476814369736,
+      "currency": "frank szwajcarski",
+      "country": "Szwajcaria"
+    },
+    {
+      "buy": 50,
+      "id": -1566715824,
+      "sell": 100,
+      "date": 1477332772653,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 429.5,
+      "id": 1622904168,
+      "sell": 432.5,
+      "date": 1476900770397,
+      "currency": "euro",
+      "country": "Unia Europejska"
+    },
+    {
+      "buy": 47.1,
+      "id": 239450860,
+      "sell": 48.1,
+      "date": 1477419171806,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 3,
+      "id": 386566787,
+      "sell": 4.1,
+      "date": 1476814369736,
+      "currency": "dinar serbski",
+      "country": "Serbia"
+    },
+    {
+      "buy": 1.38,
+      "id": 1833703475,
+      "sell": 1.45,
+      "date": 1476987171671,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 0.56,
+      "id": 1204965063,
+      "sell": 0.63,
+      "date": 1476741543327,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 5.5,
+      "id": 1353701994,
+      "sell": 6.6,
+      "date": 1477246371454,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 2.9,
+      "id": -724841099,
+      "sell": 3.4,
+      "date": 1476812282623,
+      "currency": "korona islandzka",
+      "country": "Islandia"
+    },
+    {
+      "buy": 0.57,
+      "id": -1146969790,
+      "sell": 0.63,
+      "date": 1477332772653,
+      "currency": "yuan remnimbi",
+      "country": "Chiny"
+    },
+    {
+      "buy": 378,
+      "id": -298040258,
+      "sell": 398,
+      "date": 1477073571466,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 14.5,
+      "id": 1826389398,
+      "sell": 18.5,
+      "date": 1477159971251,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 15.85,
+      "id": 115867404,
+      "sell": 16.25,
+      "date": 1477678371270,
+      "currency": "korona czeska",
+      "country": "Czechy"
+    },
+    {
+      "buy": 373,
+      "id": -818862891,
+      "sell": 393,
+      "date": 1476808683954,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    },
+    {
+      "buy": 391,
+      "id": -2036519814,
+      "sell": 394,
+      "date": 1476814369736,
+      "currency": "dolar ameryka�ski",
+      "country": "USA"
+    },
+    {
+      "buy": 44,
+      "id": 253658461,
+      "sell": 44.8,
+      "date": 1476812282623,
+      "currency": "korona szwedzka",
+      "country": "Szwecja"
+    },
+    {
+      "buy": 215,
+      "id": 1501989340,
+      "sell": 230,
+      "date": 1476812282623,
+      "currency": "lewa bu�garska",
+      "country": "Bu�garia"
+    },
+    {
+      "buy": 5.5,
+      "id": 379644025,
+      "sell": 6.6,
+      "date": 1477591971197,
+      "currency": "rubel rosyjski",
+      "country": "Rosja"
+    },
+    {
+      "buy": 57,
+      "id": 133891514,
+      "sell": 63,
+      "date": 1476812282623,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 1.38,
+      "id": -158932154,
+      "sell": 1.45,
+      "date": 1477073571466,
+      "currency": "forint w�gierski",
+      "country": "W�gry"
+    },
+    {
+      "buy": 50,
+      "id": 897666737,
+      "sell": 100,
+      "date": 1477678371270,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 50,
+      "id": -2038560617,
+      "sell": 100,
+      "date": 1476900770397,
+      "currency": "lit litewski",
+      "country": "Litwa"
+    },
+    {
+      "buy": 481,
+      "id": 1447619824,
+      "sell": 486,
+      "date": 1477332772653,
+      "currency": "funt brytyjski*",
+      "country": "Wielka Brytania"
+    },
+    {
+      "buy": 14.5,
+      "id": -622403868,
+      "sell": 18.5,
+      "date": 1476987171671,
+      "currency": "hrywna ukrai�ska",
+      "country": "Ukraina"
+    },
+    {
+      "buy": 47.4,
+      "id": 1710102237,
+      "sell": 48.4,
+      "date": 1476814369736,
+      "currency": "korona norweska",
+      "country": "Norwegia"
+    },
+    {
+      "buy": 57,
+      "id": 2069526286,
+      "sell": 63,
+      "date": 1476741543327,
+      "currency": "kuna chorwacka",
+      "country": "Chorwacja"
+    },
+    {
+      "buy": 373,
+      "id": -1108801592,
+      "sell": 393,
+      "date": 1476900770397,
+      "currency": "jen japo�ski",
+      "country": "Japonia"
+    }
+  ]
+}
